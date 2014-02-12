@@ -34,4 +34,5 @@ def wpaCrack():
 
 
 menu(capFile)
+menu(capFile)
 wepCrack(capFile)
