@@ -23,7 +23,6 @@ def menu(capture):
     os.system("clear") 
     print(R+"Attempting to crack WEP with capture file "+capture+W)
     print("")
-    os.system("airocrack-ng") 
 
 def wepCrack(capture):
     print(capture)
